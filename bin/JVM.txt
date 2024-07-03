@@ -1,0 +1,12 @@
+Understanding JVM
+
+Loading-object creation
+Linking- allocation of memory location
+Initialization-actual values are assigned to all static 
+ ways to create initialize using new
+ 
+ Heap Area- objects and corresponding instance variable are stored
+ stack Area- each thread has separate stack it hold the methods (method variables etc)
+ 
+ PC Register- keeps the record of the current instruction executing at any time
+ 
